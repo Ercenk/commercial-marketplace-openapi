@@ -13,9 +13,9 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 
-# Azure Commericial Marketplace SaaS OpenAPI description
+# Azure Commercial Marketplace SaaS OpenAPI description
 
-This repository is for active development of the Azure Commericial Marketplace SaaS OpenAPI description. This description is used to generate clients for SDKs made available via 
+This repository is for active development of the Azure Commercial Marketplace SaaS OpenAPI description. This description is used to generate clients for SDKs made available via 
 * NuGet
 * Maven
 * NPM
